@@ -1,0 +1,2 @@
+I have created a javaScript fundamentals quiz that stores high scores so I can gauge my progress compared to my peers.
+When I click start button, timer starts and Im presented with a question and when I answer a question incorrectly, time is subtracted from the clock and im presented with another question. When the answer is correct timer continues. when all questions are answered or the timer reaches 0 then game is over and when game is over I can save my Name and score
